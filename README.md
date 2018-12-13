@@ -1,5 +1,5 @@
+**[root@foundation0 ~] $**
 ```bash
 # RH442
-if [ -d RH442 ]; then rm -rf RH442; fi
-git clone https://github.com/suzhen99/RH442.git
+ssh root@172.25.254.250 ~kiosk/Desktop/Packages/ex442_setup.sh
 ```
